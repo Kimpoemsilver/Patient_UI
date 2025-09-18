@@ -1,0 +1,18 @@
+# Python 캐시파일
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 가상환경 폴더
+.venv/
+venv/
+ENV/
+
+# Streamlit 비밀키
+.streamlit/secrets.toml
+
+# OS/에디터 관련 불필요 파일
+.DS_Store
+Thumbs.db
+.vscode/
